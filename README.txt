@@ -3,7 +3,7 @@ Files alert_tests.py, cross_browser_tests.py, even_and_odd_combinations_test.py 
 to test app.
 
 Before running the Alyce_test_run.py, you must specify paths to browsers and its drivers in the cross_browser_tests.py file!
-Drivers for browsers were send with the other files!
+Drivers for browsers in "drivers" folder!
 The necessary part of the code for the change is marked with a comment!
 
 The script is launched by double click on the file Alyce_test_run.py or from bash.
