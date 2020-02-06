@@ -2,11 +2,11 @@ File test_run.py runs tests for the web app (http://hrtest.alycedev.com/).
 Files alert_tests.py, cross_browser_tests.py, even_and_odd_combinations_test.py and one_apple_per_minute_test.py contain an auxiliary function
 to test app.
 
-Before running the Alyce_test_run.py, you must specify paths to browsers and its drivers in the cross_browser_tests.py file!
+Before running the test_run.py, you must specify paths to browsers and its drivers in the cross_browser_tests.py file!
 Drivers for browsers in "drivers" folder!
 The necessary part of the code for the change is marked with a comment!
 
-The script is launched by double click on the file Alyce_test_run.py or from bash.
+The script is launched by double click on the file test_run.py or from bash.
 During the tests execution results, "Test passed." or "Test failed.", will be displayed in terminal.
 
 Tests covering the app in:
