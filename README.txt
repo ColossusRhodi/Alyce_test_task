@@ -1,4 +1,4 @@
-Alyce_test_run.py runs tests for the web app (http://hrtest.alycedev.com/).
+File test_run.py runs tests for the web app (http://hrtest.alycedev.com/).
 Files alert_tests.py, cross_browser_tests.py, even_and_odd_combinations_test.py and one_apple_per_minute_test.py contain an auxiliary function
 to test app.
 
